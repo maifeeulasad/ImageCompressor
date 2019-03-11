@@ -1,0 +1,17 @@
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\bin\Debug\ImageCompresoor.exe.config
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\bin\Debug\ImageCompresoor.exe
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\bin\Debug\ImageCompresoor.pdb
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor.csprojAssemblyReference.cache
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\MainWindow.g.cs
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\App.g.cs
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor_MarkupCompile.cache
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor_MarkupCompile.lref
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\MainWindow.baml
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor.g.resources
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor.Properties.Resources.resources
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor.csproj.GenerateResource.cache
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor.csproj.CoreCompileInputs.cache
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor.exe
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor.pdb
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\ImageCompresoor_Content.g.cs
+F:\git\ImageCompressor\ImageCompresoor\ImageCompresoor\obj\Debug\App.baml

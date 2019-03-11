@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using nQuant;
+//using nQuant;
 using System.Windows;
 using System.Drawing;
 using System.Drawing.Imaging;
@@ -100,6 +100,7 @@ namespace ImageCompressor
             }
             else
             {
+                /*
                 var quantizer = new WuQuantizer();
                 using (var bitmap = new Bitmap(img))
                 {
@@ -108,6 +109,7 @@ namespace ImageCompressor
                         quantized.Save(path, ImageFormat.Png);
                     }
                 }
+                */
             }
 
         }
@@ -118,6 +120,7 @@ namespace ImageCompressor
         {
             List<ImageData> images = new List<ImageData>();
             //
+            Directory.CreateDirectory(path);
             string[] fileNames = Directory.GetFiles(path);
             fileNames = fileNames.Where(x => x.EndsWith(".jpg") || x.EndsWith(".jpeg") || x.EndsWith(".png")).ToArray();
             foreach (var fileName in fileNames)

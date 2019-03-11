@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ImageCompressor.Properties
+namespace ImageCompresoor.Properties
 {
 
 
